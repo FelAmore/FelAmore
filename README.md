@@ -1,7 +1,7 @@
 # Hi, I'm Felise! 👋
 
 I'm a double degree student completing **Computer Science at BINUS International, 
-Jakarta** and **Information Technology at the University of Melbourne, Australia** 
+Jakarta** and **Information Technology at the RMIT, Australia** 
 — 3 years in Jakarta, final year in Melbourne.
 
 Graduating December 2026, with a passion for data analysis, 
