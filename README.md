@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Felise! 👋
 
-<!--
-**FelAmore/FelAmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a double degree student completing **Computer Science at BINUS International, 
+Jakarta** and **Information Technology at the University of Melbourne, Australia** 
+— 3 years in Jakarta, final year in Melbourne.
 
-Here are some ideas to get you started:
+Graduating December 2026, with a passion for data analysis, 
+building software, and turning data into insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python | Java | SQL | JavaScript | React | C | Excel
+
+## 📊 What I work with
+- Data Analysis & Visualization
+- Machine Learning (scikit-learn, XGBoost, MediaPipe)
+- Full Stack Web Development (React, Vite, FastAPI)
+- Database Management (MySQL, Firebase)
+
+## 🌏 Based in
+Melbourne, Australia | Open to remote
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/felise-amore-pandiora/)
