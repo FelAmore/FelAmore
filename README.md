@@ -1,23 +1,22 @@
-# Hi, I'm Felise! 👋
+# Hey, I'm Felise 🙋🏻‍♀️
 
-I'm a double degree student completing **Computer Science at BINUS International, 
-Jakarta** and **Information Technology at the RMIT, Australia** 
-— 3 years in Jakarta, final year in Melbourne.
+I'm currently in my final year at RMIT Melbourne, wrapping up a double degree 
+in Computer Science (BINUS International, Jakarta) and Information Technology. 
+Three years in Jakarta, one year in Melbourne — graduating December 2026.
 
-Graduating December 2026, with a passion for data analysis, 
-building software, and turning data into insights.
+I like building things that actually do something with data, whether that's 
+training ML models, designing databases, or turning analysis into a working web app.
 
-## 🛠 Tech Stack
-Python | Java | SQL | JavaScript | React | C | Excel
+## What I use
+Python · Java · SQL · JavaScript · React · C · Excel
 
-## 📊 What I work with
-- Data Analysis & Visualization
-- Machine Learning (scikit-learn, XGBoost, MediaPipe)
-- Full Stack Web Development (React, Vite, FastAPI)
-- Database Management (MySQL, Firebase)
+## What I build
+- Data pipelines and ML models (scikit-learn, XGBoost, MediaPipe)
+- Full stack web apps (React, Vite, Flask)
+- Database systems (MySQL, Firebase)
 
-## 🌏 Based in
-Melbourne, Australia | Open to remote
+## Where I am
+Melbourne, Australia — open to remote work anywhere
 
-## 📫 Connect with me
+## Let's connect
 [LinkedIn](https://www.linkedin.com/in/felise-amore-pandiora/)
